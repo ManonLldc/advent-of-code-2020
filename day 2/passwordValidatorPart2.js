@@ -30,6 +30,7 @@ function findValidPasswords(data) {
 
     data.forEach(entry => {
         const firstIndexMatch = entry.password[entry.firstIndex - 1] === entry.letter;
+        
         const secondIndexMatch = entry.password[entry.secondIndex - 1] === entry.letter;
 
         if (firstIndexMatch !== secondIndexMatch) {
