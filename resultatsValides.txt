@@ -25,3 +25,7 @@ Votre réponse à l'énigme était 278.
 --- Deuxième partie ---
 
 Votre réponse à l'énigme était 9709761600.
+
+--- Jour 4 : Traitement des passeports ---
+
+Votre réponse à l'énigme était 202.
